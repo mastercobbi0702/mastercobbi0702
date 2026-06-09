@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Carlos 👋</h1>
+<h1 align="center">Hola, soy Carlos Cuevas Nuñez 👋</h1>
 
 <p align="center">
   <b>QA Automation Engineer</b> &nbsp;·&nbsp; <b>Product Developer</b>
